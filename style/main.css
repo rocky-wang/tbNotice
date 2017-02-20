@@ -1,0 +1,15 @@
+body {
+    font: 12px 'Arial' ;
+}
+
+body a {
+    color: #3c3c3c;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hide {
+    display: none;
+}
